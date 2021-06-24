@@ -18,8 +18,7 @@ Algorithms and Data Structures Repo for Competitive Programming
 
 ## 📌 **Algorithms**
 
--
--
+- [Kadane's algorithm](Algorithms/kadane_algorithm.cpp)
 
             
 
